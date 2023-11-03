@@ -1,9 +1,10 @@
 import React from 'react'
+import TopBar from './components/TopBar'
 
 const App = () => {
   return (
     <div>
-      <h1 className="text-4xl font-bold p-10 max-w-[1240px] mx-auto">Hello World!</h1>
+      <TopBar />
     </div>
   )
 }

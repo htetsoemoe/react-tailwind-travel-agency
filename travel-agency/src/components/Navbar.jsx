@@ -28,7 +28,7 @@ const Navbar = () => {
                     <a href="#deals">Deals</a>
                 </li>
                 <li>
-                    <a href="#">Contact</a>
+                    <a href="#contact">Contact</a>
                 </li>
             </ul>
             <div className="flex justify-between">

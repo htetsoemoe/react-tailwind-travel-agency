@@ -4,6 +4,7 @@ import Navbar from './components/Navbar'
 import Hero from './components/Hero'
 import Activities from './components/Activities'
 import Bookings from './components/Bookings'
+import Gallery from './components/Gallery'
 
 const App = () => {
   return (
@@ -13,6 +14,7 @@ const App = () => {
       <Hero />
       <Activities />
       <Bookings />
+      <Gallery />
     </div>
   )
 }

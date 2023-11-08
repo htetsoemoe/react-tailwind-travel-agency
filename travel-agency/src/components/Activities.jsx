@@ -14,7 +14,7 @@ const Activities = () => {
             </div>
             <div className="relative p-4">
                 <h1 className="absolute z-10 top-[50%] left-[50%] translate-x-[-50%] translate-y-[-50%] text-white text-2xl font-bold">
-                    Voyage
+                    Cruises
                 </h1>
                 <img
                     className='w-full h-full object-cover border-4 border-white shadow-lg rounded-md'
@@ -23,7 +23,7 @@ const Activities = () => {
             </div>
             <div className="relative p-4">
                 <h1 className="absolute z-10 top-[50%] left-[50%] translate-x-[-50%] translate-y-[-50%] text-white text-2xl font-bold">
-                    Snorkeling
+                    Excursions
                 </h1>
                 <img
                     className='w-full h-full object-cover border-4 border-white shadow-lg rounded-md'
